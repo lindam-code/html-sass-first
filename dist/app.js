@@ -115,8 +115,8 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\felin\desktop\boolean\repo\html-sass-first\src\app.js */"./src/app.js");
-module.exports = __webpack_require__(/*! C:\Users\felin\desktop\boolean\repo\html-sass-first\src\app.scss */"./src/app.scss");
+__webpack_require__(/*! C:\Users\felin\desktop\Boolean\repo\html-sass-first\src\app.js */"./src/app.js");
+module.exports = __webpack_require__(/*! C:\Users\felin\desktop\Boolean\repo\html-sass-first\src\app.scss */"./src/app.scss");
 
 
 /***/ })
