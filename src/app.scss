@@ -1,10 +1,12 @@
 $color_primary: #66cc33;
+$color_secondary: blue;
+$color_underline: red;
 
-h2 {
-  color: blue;
+h1 {
+  color: $color_underline;
 }
 h3 {
-  color: blue;
+  color: $color_secondary
 }
 p {
   color: $color_primary;
